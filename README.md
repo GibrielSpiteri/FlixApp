@@ -32,7 +32,7 @@ I didn't realize the JSON response was already formatted as a single oject so I 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 - [Glide-Transformations](https://github.com/wasabeef/glide-transformations) - Image editing library
-- [ButterKnife](https://jakewharton.github.io/butterknife/ - Library for reducing view boilerplate
+- [ButterKnife](https://jakewharton.github.io/butterknife/) - Library for reducing view boilerplate
 
 ---
 
