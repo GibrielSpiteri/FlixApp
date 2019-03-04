@@ -55,11 +55,12 @@ It was a nice challenge learning how to use the new RecyclerView in this project
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="/Youtube.gif?raw=true" width="250px"><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Parsing JSON for the additional movie details was a little difficult,
+I didn't realize the JSON response was already formatted as a single oject so I did not have to convert to an array.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
